@@ -9,6 +9,7 @@
 #include <functional>
 #include <memory>
 #include <thread>
+#include <system_error>
 
 #ifdef BRYNET_HAVE_LANG_CXX17
 #include <shared_mutex>
